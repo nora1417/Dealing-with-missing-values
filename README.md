@@ -3,7 +3,7 @@ Missing values:
 - values that are not recorded in a dataset
 - represented in the form of Nan or null or None in the dataset.
 
-why the data is missing?
+Why the data is missing?
 
 
 Missing at Random the data is missing relative to the observed data. The missing data can be predicted based on the complete observed data, e.g. if a child does not attend an educational assessment because the child is (genuinely) ill.
